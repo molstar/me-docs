@@ -1,0 +1,49 @@
+site_name: Mol* Mesoscale Explorer Documentation
+theme:
+  name: null
+  custom_dir: mkdocs-material/material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/fav.png
+  icon:
+    logo: logo
+  features:
+    - navigation.instant
+    - navigation.tracking
+nav:
+  - Home: 'index.md'
+  - File Formats: 'fileformat.md'  
+  - Common Actions: 'common-actions.md'
+  - Viewport Settings: 'viewport.md'
+  - Snapshots: 'snapshot.md'
+  - Images/Movies: 'Images_Movies.md'
+  - URL Parameters: 'query-parameters.md'  
+  - Measurements: 'measurements.md'
+  - Quick Styles: 'quick-styles.md'
+  - Make a Tour: 'tutorial.md' 
+  - Examples: 'examples.md'
+extra_css:
+  - style.css
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+plugins:
+  - mkdocs-video:
+      is_video: True
+      video_muted: True
+      video_controls: True
+      css_style:
+        width: "100%"
+repo_url: https://github.com/molstar/me-docs
