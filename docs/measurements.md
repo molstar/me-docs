@@ -16,7 +16,7 @@ Some tips & examples for doing measurements in #molstar at [Mol* Mesoscale Explo
 
 ![type:video](./videos/measure_ex.mp4)
 
-View: [https://molstar.org/me/?url=mesoscope.scripps.edu/explorer/tours/measurements.molx&type=molx](https://molstar.org/me/?url=mesoscope.scripps.edu/explorer/tours/measurements.molx&type=molx)
+View: [https://molstar.org/me/viewer/?url=mesoscope.scripps.edu/explorer/tours/measurements.molx&type=molx](https://molstar.org/me/viewer/?url=mesoscope.scripps.edu/explorer/tours/measurements.molx&type=molx)
 
 #### Label Option
 *Overview*

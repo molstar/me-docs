@@ -84,7 +84,7 @@ This model is based on the latest cryoET of the virion. See [Yao et al., Cell 20
 ```
 
 ## Make Snapshots
-Open the [explorer](https://molstar.org/me/) in a browser and load the [SARS-CoV-2 simple model](https://mesoscope.scripps.edu/explorer/examples/sarscov2_manifest.zip). In this section, we will first create 4 snapshots to provide a smooth camera animation that highlights the model, followed by one snapshot highlighting the membrane and one snapshot highlighting the interior.
+Open the [explorer](https://molstar.org/me/viewer/) in a browser and load the [SARS-CoV-2 simple model](https://mesoscope.scripps.edu/explorer/examples/sarscov2_manifest.zip). In this section, we will first create 4 snapshots to provide a smooth camera animation that highlights the model, followed by one snapshot highlighting the membrane and one snapshot highlighting the interior.
 
 ### 1. Set Default Durations and Create the Initial Snapshot
 First, change the default duration for snapshots to 5000 milliseconds and the camera animation to 2100 milliseconds.
@@ -127,5 +127,5 @@ Toggle the visibility ![](img/eye.png) of the 'interior' level and CryoEM_RP bac
 
 
 ### View the tour 
-[https://molstar.org/me/?url=https://mesoscope.scripps.edu/explorer/tours/makeatour.molx&type=molx&hide-controls=1](https://molstar.org/me/?url=https://mesoscope.scripps.edu/explorer/tours/makeatour.molx&type=molx&hide-controls=1)
+[https://molstar.org/me/viewer/?url=https://mesoscope.scripps.edu/explorer/tours/makeatour.molx&type=molx&hide-controls=1](https://molstar.org/me/viewer/?url=https://mesoscope.scripps.edu/explorer/tours/makeatour.molx&type=molx&hide-controls=1)
 

@@ -97,24 +97,24 @@ Allowed values:
 
 
 ## Examples
-Load a Mol\* snapshot from a [URL](https://molstar.org/me/?url=https%3A%2F%2Fmolstar.org%2Fdemos%2Fstates%2Fbtub.molx&snapshot-url-type=molx)
+Load a Mol\* snapshot from a [URL](https://molstar.org/me/viewer/?url=https%3A%2F%2Fmolstar.org%2Fdemos%2Fstates%2Fbtub.molx&snapshot-url-type=molx)
 
-    https://molstar.org/me/?url=https%3A%2F%2Fmolstar.org%2Fdemos%2Fstates%2Fbtub.molx&snapshot-url-type=molx
+    https://molstar.org/me/viewer/?url=https%3A%2F%2Fmolstar.org%2Fdemos%2Fstates%2Fbtub.molx&snapshot-url-type=molx
 
-Load a mmCIF file from a [URL](https://molstar.org/me/?url=https://files.rcsb.org/download/6Z1W.cif&type=cif)
+Load a mmCIF file from a [URL](https://molstar.org/me/viewer/?url=https://files.rcsb.org/download/6Z1W.cif&type=cif)
 
-    https://molstar.org/me/?url=https://files.rcsb.org/download/6Z1W.cif&type=cif
+    https://molstar.org/me/viewer/?url=https://files.rcsb.org/download/6Z1W.cif&type=cif
 
-Load PDB entry [3PQR](https://molstar.org/me/?pdb=3pqr)
+Load PDB entry [3PQR](https://molstar.org/me/viewer/?pdb=3pqr)
 
-    https://molstar.org/me/?pdb=3pqr
+    https://molstar.org/me/viewer/?pdb=3pqr
 
-Load PDB-Dev entry [PDBDEV_00000030](https://molstar.org/me/?pdbdev=PDBDEV_00000030)
+Load PDB-Dev entry [PDBDEV_00000030](https://molstar.org/me/viewer/?pdbdev=PDBDEV_00000030)
 
-    https://molstar.org/me/?pdbdev=PDBDEV_00000030
+    https://molstar.org/me/viewer/?pdbdev=PDBDEV_00000030
 
-Load Example [Exosome](https://molstar.org/me/?example=cellpack-exosome&hide-controls=1) wile hiding main control by default.
+Load Example [Exosome](https://molstar.org/me/viewer/?example=cellpack-exosome&hide-controls=1) wile hiding main control by default.
 
-    https://molstar.org/me/?example=cellpack-exosome&hide-controls=1
+    https://molstar.org/me/viewer/?example=cellpack-exosome&hide-controls=1
 
 

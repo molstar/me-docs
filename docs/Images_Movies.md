@@ -75,7 +75,7 @@ See the [Make a Tour](tutorial.md) guide to create the snapshots. Once you have 
 
     ![](./img/saveanimation.png)
 
-- Here is an example rendered from the [CellPACK HIV tour](https://molstar.org/me/?example=cellpack-hiv-tour&hide-controls=1).
+- Here is an example rendered from the [CellPACK HIV tour](https://molstar.org/me/viewer/?example=cellpack-hiv-tour&hide-controls=1).
 
 ![type:video](videos/hivtour2x.mp4)
 
@@ -83,5 +83,5 @@ See the [Make a Tour](tutorial.md) guide to create the snapshots. Once you have 
 
 - Movie rendering and export are done entirely in the browser. Your data stays on your machine.
 - View the states online:
-    - HIV: [https://molstar.org/me/?snapshot-url=https://mesoscope.scripps.edu/explorer/tours/HIV_cut.molx&snapshot-url-type=molx](https://molstar.org/me/?snapshot-url=https://mesoscope.scripps.edu/explorer/tours/HIV_cut.molx&snapshot-url-type=molx)
+    - HIV: [https://molstar.org/me/viewer/?snapshot-url=https://mesoscope.scripps.edu/explorer/tours/HIV_cut.molx&snapshot-url-type=molx](https://molstar.org/me/viewer/?snapshot-url=https://mesoscope.scripps.edu/explorer/tours/HIV_cut.molx&snapshot-url-type=molx)
     - [Tours](examples.md#examples-of-tours)
