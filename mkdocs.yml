@@ -32,6 +32,7 @@ nav:
   - URL Parameters: 'query-parameters.md'  
   - Measurements: 'measurements.md'
   - Quick Styles: 'quick-styles.md'
+  - Embedding: 'embedding.md'
   - Make a Tour: 'tutorial.md' 
   - Examples: 'examples.md'
 extra_css:
